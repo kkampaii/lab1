@@ -7,3 +7,6 @@ D:\IGS\IGS_LAB2\IGS_LAB2\bin\Debug\IGS_LAB2.exe
 D:\IGS\IGS_LAB2\IGS_LAB2\bin\Debug\IGS_LAB2.pdb
 D:\IGS\IGS_LAB2\IGS_LAB2\obj\Debug\IGS_LAB2.exe
 D:\IGS\IGS_LAB2\IGS_LAB2\obj\Debug\IGS_LAB2.pdb
+D:\Git\gitRepository\IGS_LAB2\IGS_LAB2\bin\Debug\IGS_LAB2.exe.config
+D:\Git\gitRepository\IGS_LAB2\IGS_LAB2\obj\Debug\IGS_LAB2.exe
+D:\Git\gitRepository\IGS_LAB2\IGS_LAB2\obj\Debug\IGS_LAB2.pdb

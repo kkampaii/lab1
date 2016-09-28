@@ -33,8 +33,5 @@ namespace IGS_LAB2
         {
             return new PointF(X, Y);
         }
-
-		public void test(){
-		}
     }
 }
